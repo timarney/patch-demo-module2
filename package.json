@@ -10,6 +10,6 @@
   "license": "MIT",
   "dependencies": {
     "lodash.flatten": "^4.4.0",
-    "lodash.mergewith": "4.3.5"
+    "lodash.mergewith": "4.6.2"
   }
 }
